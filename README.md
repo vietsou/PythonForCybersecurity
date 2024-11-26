@@ -1,7 +1,12 @@
 # PythonForCybersecurity (buiding in progress)
-Notes de la playlist "CIS-30C Python For Cybersecurity" 
+
+Notes de la playlist "CIS-30C Python For Cybersecurity"
+
 Youtube - Kasey Nguyen - 2022
+
 https://youtube.com/playlist?list=PL2W-cwk5hZgSpoezKtzlTMcrLqNHmaEP3&si=CRwZp6MNj1JDxx_T
+
+---
 
 - Unit 1: Python Scripting Basics  
 - Lab  1: Class and Exception in Python
